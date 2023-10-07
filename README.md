@@ -1,11 +1,3 @@
-# GOALS FOR THIS REPOSITORY
+# Switch Homebrew Examples and Tests
 
-### ```http-test.py```
-
-- [ ] keyboard interrupts (quit, force refresh, etc...)
-- [ ] output overrides old output
-
-### ```presence.py```
-
-- [ ] get presence sorted
-- [ ] understand how presence work on the switch 
+URL: https://webhook.site/#!/096eb33c-3ee7-40d8-b811-3587ff4fce7d/f0835383-7cf9-409e-9698-eb357467fafe/1
